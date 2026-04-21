@@ -1,0 +1,8 @@
+# Maven build folder
+target/
+
+# NetBeans specific files
+nbproject/private/
+nb-configuration.xml
+build/
+*.class
