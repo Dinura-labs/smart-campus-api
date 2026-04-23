@@ -1,8 +1,18 @@
-# Maven build folder
-target/
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
 
-# NetBeans specific files
-nbproject/private/
-nb-configuration.xml
-build/
+# Maven
+target/
 *.class
+*.jar
+
+# IDE
+.idea/
+*.iml
+.vscode/
+*.eclipse
+
+# Logs
+*.log
